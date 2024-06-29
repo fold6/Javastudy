@@ -14,4 +14,4 @@
 
 
 ## 📌 내 레포 페이지로 가기
-[나](https://github.com/whdldi?tab=repositories) 를 누르면 제 레포페이지로 가요 😉
+[나](https://github.com/whdldi?tab=repositories) 를 누르면 제 레포페이지로 가요😉
