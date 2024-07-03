@@ -17,7 +17,7 @@ public class Ex0208 {
         -소숫점 이하 자릴수 손실
         -값의 범위초과
         -예상치 못한 논리적 오류 */
-        System.out.println(byteNum128);
+        System.out.println(byteNum128); // 결과 : -128
 
     }
 
