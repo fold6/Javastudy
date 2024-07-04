@@ -8,9 +8,13 @@ public class Practice0303 {
 
         // 알맞은 코드를 작성하시오
         boolean andResult = bool1 && bool2; 
+        // && 둘다 true여야 true
         boolean orResult = bool1 || bool2;
+        // || = 둘다 false여야 false
         boolean notBool1 = !bool1;
+        // ! = 반대로 함
         boolean notBool2 = !bool2;
+        // ! = 반대로 함
 
         System.out.println("bool1 AND bool2 \t : " + andResult);
         System.out.println("bool1 OR bool2 \t : " + orResult);

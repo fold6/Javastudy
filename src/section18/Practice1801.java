@@ -6,7 +6,9 @@ public class Practice1801 {
         double height = 175.5;
         String city = "Busan";
 
-        System.out.printf("나이: %d, 키: %.1f, 도시: %s\n", age,height,city);
+        //나이,키,도시 가 나오도록 나이:? , 키: ? ..  작성하기
+
+        System.out.printf("나이:%d, 키: %.1f, 도시: %s \n", age,height,city);
 
     }
 }

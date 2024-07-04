@@ -11,12 +11,12 @@ public class Practice1803 {
          * 이름: 김일남, 나이: 99, 키: 169.90
          */
         System.out.print("이름을 입력하세요: ");
-        String name = scanner.next();
+        String name = scanner.nextLine();
         System.out.print("나이를 입력하세요: ");
         int age = scanner.nextInt();
         System.out.print("키를 입력하세요: ");
         double height = scanner.nextDouble();
-        System.out.printf("이름: %s, 나이: %d, 키: %.2f\n", name, age, height);
+        System.out.printf("이름: %s, 나이: %d, 키: %.1f\n", name, age, height);
         
         scanner.close();
     }
