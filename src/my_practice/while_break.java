@@ -1,6 +1,6 @@
 package my_practice;
 
-public class while_break {
+public class While_break {
     public static void main(String[] args) {
         int sum = 0;
         while (true) {
