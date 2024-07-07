@@ -4,14 +4,9 @@
 2. 연산자 (대입,산술,복합대인,관계,논리,조건,증감연산자 등) ✅
 3. 제어문 (for,while, do-while,continue,break 등) ✅
 4. 자바 입출력 콘솔 (Scanner 클래스) ✅
-
- <br>
- <br>
+<br>
+<br>
  
-
+<h3>
 ## 📌[티스토리 블로그보기](https://gsbd.tistory.com/)
-
- <br>
-
-## 📌[Repo로 돌아가기](https://github.com/whdldi?tab=repositories)
-
+</h3>
