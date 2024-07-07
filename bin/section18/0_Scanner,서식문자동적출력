@@ -1,0 +1,20 @@
+[스캐너의 구성]
+
+-최상단 package 밑에 (아래에서 scanner 객체 생성하면 자동입력됨)
+import java.util.Scanner;
+
+
+-제일 상단 변수설정하는 곳(int = 2;) 밑
+
+    Scanner scanner = new Scanner(System.in);
+    System.out.print("점수를 입력하세요 : ");
+    int intNum = scanner.nextInt();
+
+    // Scanner 클래스를 사용하여 사용자 입력을 받기 위한 객체를 생성합니다.
+    // 사용자에게 점수를 입력하라는 메시지를 출력합니다.
+    // 사용자가 입력한 정수 값을 intNum 변수에 저장합니다.
+
+
+- 조건식 밑 최하단
+
+ scanner.close();
