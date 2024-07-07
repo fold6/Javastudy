@@ -12,10 +12,10 @@ public class Ex0701 {
         
         // 각 인덱스에 있는 요소 출력
         System.out.println(oddArr[0]); // 인덱스 0의 요소 출력
-        System.out.println(oddArr[1]); // 인덱스 1의 요소 출력
-        System.out.println(oddArr[2]); // 인덱스 2의 요소 출력
-        System.out.println(oddArr[3]); // 인덱스 3의 요소 출력
-        System.out.println(oddArr[4]); // 인덱스 4의 요소 출력
+        System.out.println(oddArr[1]);
+        System.out.println(oddArr[2]);
+        System.out.println(oddArr[3]);
+        System.out.println(oddArr[4]);
         
         // 배열 인덱스 범위를 넘어가는 경우 오류
         // System.out.println(oddArr[5]); // 주석 처리된 부분: 인덱스 5는 존재하지 않으므로 오류 발생
