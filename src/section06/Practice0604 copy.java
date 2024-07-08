@@ -12,12 +12,13 @@ public class Practice0604 {
          */
 
         int dan;
+
         Scanner scanner = new Scanner(System.in);
-        System.out.println("출력할 구구단 단을 입력하세요:");
+        System.out.print("출력할 구구단 단을 입력하세요");
 
         dan = scanner.nextInt();
         for (int i = 1; i <= 9; i++) {
-            System.out.printf("%d x %d = %d\n", dan, i, dan * i);
+            System.out.printf("%d × %d = %d\n", dan, i, dan * i);
         }
         scanner.close();
     }
