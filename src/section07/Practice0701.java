@@ -9,7 +9,7 @@ public class Practice0701 {
         System.out.println("배열요소:");
 
         for(int number : numbers){
-            System.out.print(number+ "");
+            System.out.print(number + "");
         }
     }
 }
