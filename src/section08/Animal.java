@@ -6,8 +6,9 @@ public class Animal {
     //속성 = 필드 ,변수/상수
     //기능=메서드
 
-    public void setName(String n){
-        name = n;
+    public void setName(String name){
+        this.name = name;
+        //필드에 있는 name 이다. 라고 this로 알려줌
     }
     
 }
