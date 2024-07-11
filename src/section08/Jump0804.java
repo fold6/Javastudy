@@ -1,5 +1,7 @@
 package section08;
 
+import section10.Overriding.Animal;
+
 public class Jump0804 {
     public static void main(String[] args) {
         // 객체 명앞에는 type이 붙음 animal도 type임
