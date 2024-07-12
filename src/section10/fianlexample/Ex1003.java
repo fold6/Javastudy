@@ -1,6 +1,6 @@
 
 package section10.fianlexample;
-
+/*  */
 class NomalClass {
 
 }
